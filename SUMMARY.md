@@ -2,8 +2,9 @@
 
 ## Overview
 
-* [My Awesome API](README.md)
+* [What's it for?](README.md)
 
-## Methods
+## list
 
 * [Defining Methods](methods.md)
+

@@ -1,3 +1,6 @@
-# My Awesome API
+# What's it for?
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Gather bits of information for clear communicating with others in my own words
+
+personal wiki
+
